@@ -1,0 +1,37 @@
+{"properties": [
+  {
+    "name": "eureka.client.instance.hostname",
+    "type": "java.lang.String",
+    "description": "A description for 'eureka.client.instance.hostname'"
+  },
+  {
+    "name": "rabbitmq.queue.name",
+    "type": "java.lang.String",
+    "description": "A description for 'rabbitmq.queue.name'"
+  },
+  {
+    "name": "rabbitmq.exchange.name",
+    "type": "java.lang.String",
+    "description": "A description for 'rabbitmq.exchange.name'"
+  },
+  {
+    "name": "rabbitmq.routing-key",
+    "type": "java.lang.String",
+    "description": "A description for 'rabbitmq.routing-key'"
+  },
+  {
+    "name": "rabbitmq.json_queue.name",
+    "type": "java.lang.String",
+    "description": "A description for 'rabbitmq.json_queue.name'"
+  },
+  {
+    "name": "rabbitmq.json-routing-key",
+    "type": "java.lang.String",
+    "description": "A description for 'rabbitmq.json-routing-key'"
+  },
+  {
+    "name": "rabbitmq.termail.command",
+    "type": "java.lang.String",
+    "description": "A description for 'rabbitmq.termail.command'"
+  }
+]}
